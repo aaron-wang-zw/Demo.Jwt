@@ -1,0 +1,10 @@
+G:\github\Demo.Jwt\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+G:\github\Demo.Jwt\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+G:\github\Demo.Jwt\Common\bin\Debug\netcoreapp3.1\Common.exe
+G:\github\Demo.Jwt\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+G:\github\Demo.Jwt\Common\bin\Debug\netcoreapp3.1\Common.runtimeconfig.json
+G:\github\Demo.Jwt\Common\bin\Debug\netcoreapp3.1\Common.runtimeconfig.dev.json
+G:\github\Demo.Jwt\Common\bin\Debug\netcoreapp3.1\Common.dll
+G:\github\Demo.Jwt\Common\bin\Debug\netcoreapp3.1\Common.pdb
+G:\github\Demo.Jwt\Common\obj\Debug\netcoreapp3.1\Common.dll
+G:\github\Demo.Jwt\Common\obj\Debug\netcoreapp3.1\Common.pdb
